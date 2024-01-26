@@ -1,0 +1,178 @@
+h1 {
+    font-weight: bold;
+    font-size: 3vw;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+    color:peru;
+    display: block;
+    margin-top: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding-left: 0;
+    padding-right: 0;
+
+    
+}
+.banner-card img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 3%;
+  }
+  .banner-text h4 {
+position:absolute;
+top: 54%;
+color: #fff;
+margin-left: 1.5%;
+padding: 20px
+
+  }
+  .banner-card2 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 7%;
+  }
+  .banner-text2 h5 {
+position:absolute;
+font-size: 110%;
+top: 52.5%;
+color: #fff;
+margin-left: 27.5%;
+padding: 20px
+  }
+  .banner-card3 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 7.5%;
+  }
+  .banner-text3 h {
+position:absolute;
+font-size: 110%;
+top: 57%;
+color: #fff;
+margin-left: -10%;
+padding: 20px
+  }
+  .banner-card4 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 7.5%;
+  }
+  .banner-text4 h {
+position:absolute;
+font-size: 110%;
+top: 57%;
+color: #fff;
+margin-left: -10.5%;
+padding: 20px
+  }
+  .banner-card5 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 9%;
+    margin-left: 3%;
+  }
+  .banner-text5 h {
+    position:absolute;
+    font-size: 110%;
+    top: 107%;
+    color: #fff;
+    margin-left: -79%;
+    padding: 20px
+  }
+  .banner-card6 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 9%;
+    margin-left: 7%;
+  }
+  .banner-text6 h {
+    position:absolute;
+    font-size: 110%;
+    top: 107%;
+    color: #fff;
+    margin-left: -59%;
+    padding: 20px
+  }
+  .banner-card7 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 9%;
+    margin-left: 7.5%;
+  }
+  .banner-text7 h {
+    position:absolute;
+    font-size: 110%;
+    top: 107%;
+    color: #fff;
+    margin-left: -37%;
+    padding: 20px
+  }
+  .banner-card8 img {
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-top: 9%;
+    margin-left: 7.5%;
+  }
+  .banner-text8 h {
+    position:absolute;
+    font-size: 110%;
+    top: 107%;
+    color: #fff;
+    margin-left: -16%;
+    padding: 20px
+  }
+
+
+  
+body {
+    background-image: url('https://img.freepik.com/free-photo/3d-wooden-table-looking-out-smoky-room_1048-12585.jpg?w=740&t=st=1706196713~exp=1706197313~hmac=9049da805067060fe2cb8632427a861db145cb17bef2243150b6cedb0212b2ad.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+  body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 3.5%;
+    bottom: 0;
+    width: 90%;
+    height: 1%;
+    background-color:beige;
+    margin-top: 9.5% ;
+  }
+  
+ 
+  
+h2 {
+    font-size: 2vw;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+    color:blanchedalmond;
+    text-align: center;
+}
+h3 {
+  font-size: 2vw;
+  margin-top: -7%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+  'Open Sans', 'Helvetica Neue', sans-serif;
+  color:blanchedalmond;
+  text-align: right;
+
+}
